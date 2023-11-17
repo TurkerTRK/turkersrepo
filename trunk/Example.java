@@ -1,5 +1,5 @@
 /* Small Example class */
-
+//@wi EB-102
 package com.polarion.demo;
 
 
